@@ -1,6 +1,10 @@
-package example_library
+package library
 
 import "fmt"
+
+import "github.com/flox-examples/go-library/language"
+
+const Language = language.Language
 
 func HelloString(s string) string {
   return "Hello world, " + s + "!"

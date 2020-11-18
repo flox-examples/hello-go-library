@@ -1,3 +1,3 @@
-module github.com/flox-examples/go-library
+module github.com/flox-examples/hello-go-library
 
 go 1.15

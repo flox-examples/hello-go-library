@@ -2,7 +2,7 @@ package library
 
 import "fmt"
 
-import "github.com/flox-examples/go-library/language"
+import "github.com/flox-examples/hello-go-library/language"
 
 const Language = language.Language
 
